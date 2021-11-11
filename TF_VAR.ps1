@@ -1,0 +1,1 @@
+Get-Item -Path ENV:TF_VAR*
